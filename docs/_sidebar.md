@@ -1,2 +1,3 @@
 - [Home](/)
-- [Get Started](getting-started.md)
+- [Get Started](/getting-started.md)
+- [Documentation](https://ituim.github.io/the-tuim-project.pdf)

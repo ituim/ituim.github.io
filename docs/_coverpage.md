@@ -1,4 +1,4 @@
-![logo](_media/icon.svg ':size=35%')
+![logo](_media/icon.svg ':size=15%')
 
 # The Tuim Project
 

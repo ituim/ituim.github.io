@@ -21,6 +21,11 @@ focusing code portability and language interoperability.
   and code writen using Tuim's standard library may be compiled for
   different architectures and operating systems.
 
+## How to use Tuim?
+
+- Plese check the [Get Started](/getting-started.md) page.
+- If you're a developer, please read the [documentation](https://ituim.github.io/the-tuim-project.pdf).
+
 ## ~~How Tuim do it?~~
 
 ## Community
@@ -28,6 +33,11 @@ focusing code portability and language interoperability.
 The development community is powered on Discord. Join the conversation!
 
 - :coffee: **Development Chat:** [The Tuim Project on Discord](https://discord.com/invite/XmHuXpS98A)
+
+## Author
+
+The Tuim Project was created by
+**[I. F. F. dos Santos](https://github.com/ismaeldamiao)**.
 
 ---
 
