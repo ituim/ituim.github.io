@@ -1,3 +1,3 @@
 - [Home](/)
 - [Get Started](/getting-started.md)
-- [Documentation](https://ituim.github.io/the-tuim-project.pdf)
+- [Documentation](/the-tuim-project.pdf ':ignore')

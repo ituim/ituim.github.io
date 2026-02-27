@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-C5F2B1)
 
-> [!NOTE]
+> [!IMPORTANT]
 > For now it is a work in progress.
 > Not all features are working and it's for tests purposes only.
 
@@ -24,7 +24,7 @@ focusing code portability and language interoperability.
 ## How to use Tuim?
 
 - Plese check the [Get Started](/getting-started.md) page.
-- If you're a developer, please read the [documentation](https://ituim.github.io/the-tuim-project.pdf).
+- If you're a developer, please read the [documentation](/the-tuim-project.pdf ':ignore').
 
 ## ~~How Tuim do it?~~
 
