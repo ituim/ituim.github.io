@@ -1,0 +1,24 @@
+{
+   "workbench.colorTheme": "Default Dark Modern",
+   "editor.fontSize": 15,
+   "editor.insertSpaces": true,
+   "editor.minimap.enabled": false,
+   "editor.scrollbar.horizontal": "visible",
+   "editor.scrollbar.vertical": "visible",
+   "editor.renderWhitespace": "all",
+   "editor.wordWrap": "off",
+   "editor.inlayHints.enabled": "off",
+   "editor.tabSize": 3,
+   "editor.rulers": [80],
+   "files.associations": {
+      "*.h": "c"
+   },
+   "clangd.fallbackFlags": [
+      "--language=c",
+      "-Wall", "-Wextra", "-Wpedantic",
+      "-std=c23",
+      "-I", "${workspaceFolder}/.interface",
+      "-I", "${workspaceFolder}/interface",
+   ],
+   "latex-workshop.latex.autoBuild.run": "never"
+}
