@@ -23,8 +23,8 @@ focusing code portability and language interoperability.
 
 ## How to use Tuim?
 
-- Plese check the [Get Started](/getting-started.md) page.
-- If you're a developer, please read the [documentation](/the-tuim-project.pdf ':ignore').
+- Plese check the [Get Started](./getting-started.md) page.
+- If you're a developer, please read the [documentation](./the-tuim-project.pdf ':ignore').
 
 ## ~~How Tuim do it?~~
 

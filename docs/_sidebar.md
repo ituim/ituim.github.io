@@ -1,3 +1,4 @@
 - [Home](/)
 - [Get Started](/getting-started.md)
 - [Documentation](/the-tuim-project.pdf ':ignore')
+- [How to contribute](/CONTRIBUTING.md)
